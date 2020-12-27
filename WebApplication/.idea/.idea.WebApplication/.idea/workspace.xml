@@ -23,9 +23,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="648dfb8e-3154-4c88-91af-9329a7fa9bf1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/WebApplication/Controllers/RolesController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebApplication/ViewModels/ChangeRoleViewModel.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebApplication/Views/Roles/Create.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebApplication/Views/Roles/Edit.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebApplication/Views/Roles/Index.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebApplication/Views/Roles/UserList.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.WebApplication/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.WebApplication/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.WebApplication/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.WebApplication/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebApplication/Controllers/AccountController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplication/Controllers/AccountController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebApplication/Views/Shared/_Layout.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplication/Views/Shared/_Layout.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication/Controllers/HomeController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplication/Controllers/HomeController.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +66,13 @@
         <option value="$PROJECT_DIR$/WebApplication/Views/Users/Edit.cshtml" />
         <option value="$PROJECT_DIR$/WebApplication/Controllers/AccountController.cs" />
         <option value="$PROJECT_DIR$/WebApplication/Views/Shared/_Layout.cshtml" />
+        <option value="$PROJECT_DIR$/WebApplication/Controllers/HomeController.cs" />
+        <option value="$PROJECT_DIR$/WebApplication/ViewModels/ChangeRoleViewModel.cs" />
+        <option value="$PROJECT_DIR$/WebApplication/Controllers/RolesController.cs" />
+        <option value="$PROJECT_DIR$/WebApplication/Views/Roles/Index.cshtml" />
+        <option value="$PROJECT_DIR$/WebApplication/Views/Roles/Edit.cshtml" />
+        <option value="$PROJECT_DIR$/WebApplication/Views/Roles/UserList.cshtml" />
+        <option value="$PROJECT_DIR$/WebApplication/Views/Roles/Create.cshtml" />
       </list>
     </option>
   </component>
@@ -139,21 +152,21 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1493" height="158" key="GridCell.Tab.0.bottom" timestamp="1609103126069">
+    <state width="1493" height="158" key="GridCell.Tab.0.bottom" timestamp="1609104486623">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="158" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1609103126069" />
-    <state width="1493" height="158" key="GridCell.Tab.0.center" timestamp="1609103126068">
+    <state width="1493" height="158" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1609104486623" />
+    <state width="1493" height="158" key="GridCell.Tab.0.center" timestamp="1609104486623">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="158" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1609103126068" />
-    <state width="1493" height="158" key="GridCell.Tab.0.left" timestamp="1609103126068">
+    <state width="1493" height="158" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1609104486623" />
+    <state width="1493" height="158" key="GridCell.Tab.0.left" timestamp="1609104486623">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="158" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1609103126068" />
-    <state width="1493" height="158" key="GridCell.Tab.0.right" timestamp="1609103126068">
+    <state width="1493" height="158" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1609104486623" />
+    <state width="1493" height="158" key="GridCell.Tab.0.right" timestamp="1609104486623">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="158" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1609103126068" />
+    <state width="1493" height="158" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1609104486623" />
   </component>
 </project>

@@ -15,6 +15,7 @@
         <e p="Controllers" t="Include">
           <e p="AccountController.cs" t="Include" />
           <e p="HomeController.cs" t="Include" />
+          <e p="RolesController.cs" t="Include" />
           <e p="UsersController.cs" t="Include" />
         </e>
         <e p="Models" t="Include">
@@ -36,6 +37,7 @@
         </e>
         <e p="Startup.cs" t="Include" />
         <e p="ViewModels" t="Include">
+          <e p="ChangeRoleViewModel.cs" t="Include" />
           <e p="CreateUserViewModel.cs" t="Include" />
           <e p="EditUserViewModel.cs" t="Include" />
           <e p="LoginViewModel.cs" t="Include" />
@@ -51,6 +53,12 @@
           <e p="Home" t="Include">
             <e p="Index.cshtml" t="Include" />
             <e p="Privacy.cshtml" t="Include" />
+          </e>
+          <e p="Roles" t="Include">
+            <e p="Create.cshtml" t="Include" />
+            <e p="Edit.cshtml" t="Include" />
+            <e p="Index.cshtml" t="Include" />
+            <e p="UserList.cshtml" t="Include" />
           </e>
           <e p="Shared" t="Include">
             <e p="_Layout.cshtml" t="Include" />
