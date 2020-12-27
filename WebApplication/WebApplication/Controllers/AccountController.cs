@@ -29,11 +29,11 @@ namespace WebApplication.Controllers
             if (ModelState.IsValid)
             {
                 User user = new User {Email = model.Email, UserName = model.Email, Year = model.Year};
-                // добавляем пользователя
+                // додаємо користувача
                 var result = await _userManager.CreateAsync(user, model.Password);
                 if (result.Succeeded)
                 {
-                    // установка куки
+                    // установка кукі
                     await _signInManager.SignInAsync(user, false);
                     return RedirectToAction("Index", "Home");
                 }
@@ -88,7 +88,7 @@ namespace WebApplication.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Logout()
         {
-            // удаляем аутентификационные куки
+            // видаляємо автентифікаційні кукі
             await _signInManager.SignOutAsync();
             return RedirectToAction("Index", "Home");
         }
