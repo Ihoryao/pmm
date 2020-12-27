@@ -8,6 +8,7 @@
     <e p="C:\Users\Admin\Desktop\ПММ-11\Серверне WEB програмування (Любінський Б.Д.)\Лабораторні роботи\Lab2\pmm\WebApplication" t="IncludeFlat">
       <e p="packages" t="ExcludeRecursive" />
       <e p="WebApplication" t="IncludeRecursive">
+        <e p=".gitignore" t="Include" />
         <e p="appsettings.Development.json" t="Include" />
         <e p="appsettings.json" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
