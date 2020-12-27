@@ -13,10 +13,13 @@
         <e p="appsettings.json" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
         <e p="Controllers" t="Include">
+          <e p="AccountController.cs" t="Include" />
           <e p="HomeController.cs" t="Include" />
         </e>
         <e p="Models" t="Include">
+          <e p="ApplicationContext.cs" t="Include" />
           <e p="ErrorViewModel.cs" t="Include" />
+          <e p="User.cs" t="Include" />
         </e>
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
@@ -31,9 +34,17 @@
           <e p="launchSettings.json" t="Include" />
         </e>
         <e p="Startup.cs" t="Include" />
+        <e p="ViewModels" t="Include">
+          <e p="LoginViewModel.cs" t="Include" />
+          <e p="RegisterViewModel.cs" t="Include" />
+        </e>
         <e p="Views" t="Include">
           <e p="_ViewImports.cshtml" t="Include" />
           <e p="_ViewStart.cshtml" t="Include" />
+          <e p="Account" t="Include">
+            <e p="Login.cshtml" t="Include" />
+            <e p="Register.cshtml" t="Include" />
+          </e>
           <e p="Home" t="Include">
             <e p="Index.cshtml" t="Include" />
             <e p="Privacy.cshtml" t="Include" />

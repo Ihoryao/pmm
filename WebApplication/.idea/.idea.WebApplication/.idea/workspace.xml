@@ -23,7 +23,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="648dfb8e-3154-4c88-91af-9329a7fa9bf1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/WebApplication/Controllers/AccountController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebApplication/Models/ApplicationContext.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebApplication/Models/User.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebApplication/ViewModels/LoginViewModel.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebApplication/ViewModels/RegisterViewModel.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebApplication/Views/Account/Login.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebApplication/Views/Account/Register.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.WebApplication/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.WebApplication/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.WebApplication/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.WebApplication/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplication/Startup.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication/Views/Home/Index.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplication/Views/Home/Index.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication/WebApplication.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplication/WebApplication.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplication/appsettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication/obj/Debug/netcoreapp3.1/WebApplication.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplication/obj/Debug/netcoreapp3.1/WebApplication.assets.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WebApplication/obj/Debug/netcoreapp3.1/WebApplication.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplication/obj/Debug/netcoreapp3.1/WebApplication.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication/obj/WebApplication.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplication/obj/WebApplication.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplication/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplication/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplication/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplication/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,11 +56,23 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/WebApplication/.gitignore" />
+        <option value="$PROJECT_DIR$/WebApplication/Models/User.cs" />
+        <option value="$PROJECT_DIR$/WebApplication/Models/ApplicationContext.cs" />
+        <option value="$PROJECT_DIR$/WebApplication/appsettings.json" />
+        <option value="$PROJECT_DIR$/WebApplication/Startup.cs" />
+        <option value="$PROJECT_DIR$/WebApplication/ViewModels/RegisterViewModel.cs" />
+        <option value="$PROJECT_DIR$/WebApplication/Views/Account/Register.cshtml" />
+        <option value="$PROJECT_DIR$/WebApplication/ViewModels/LoginViewModel.cs" />
+        <option value="$PROJECT_DIR$/WebApplication/Controllers/AccountController.cs" />
+        <option value="$PROJECT_DIR$/WebApplication/Views/Account/Login.cshtml" />
+        <option value="$PROJECT_DIR$/WebApplication/Views/Home/Index.cshtml" />
       </list>
     </option>
   </component>
   <component name="ProjectId" id="1mFoe2vvQ7CFMOK7M7aY2wEBJtt" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -112,5 +143,23 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1609100278967">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1609100278967" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1609100278966">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1609100278966" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1609100278966">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1609100278966" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1609100278967">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1609100278967" />
   </component>
 </project>
