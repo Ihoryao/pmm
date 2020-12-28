@@ -14,7 +14,6 @@ namespace WebApplication.Controllers
     {
         private readonly ILogger<HomeController> _logger;
 
-
         public HomeController(ILogger<HomeController> logger)
         {
             _logger = logger;
@@ -22,8 +21,18 @@ namespace WebApplication.Controllers
 
         public IActionResult Index()
         {
+            // if (User.IsInRole("user"))
+            // {
+            //     RedirectToAction(UserIndex());
+            // }
+
             return View();
         }
+
+        // public IActionResult UserIndex()
+        // {
+        //     return View();
+        // }
 
         [Authorize(Roles = "admin")]
         public IActionResult Privacy()
