@@ -8,7 +8,7 @@ using WebApplication.ViewModels;
 
 namespace WebApplication.Controllers
 {
-    [Authorize(Roles="admin")]
+    [Authorize(Roles = "admin")]
     public class UsersController : Controller
     {
         UserManager<User> _userManager;
@@ -18,8 +18,10 @@ namespace WebApplication.Controllers
             _userManager = userManager;
         }
 
+        [HttpGet]
         public IActionResult Index() => View(_userManager.Users.ToList());
 
+        [HttpGet]
         public IActionResult Create() => View();
 
         [HttpPost]
@@ -85,7 +87,6 @@ namespace WebApplication.Controllers
             }
 
             return View(model);
-            //return View(model);
         }
 
         [HttpPost]

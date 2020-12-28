@@ -10,10 +10,10 @@ using WebApplication.Models;
 
 namespace WebApplication.Controllers
 {
-    
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
+
 
         public HomeController(ILogger<HomeController> logger)
         {
@@ -25,6 +25,7 @@ namespace WebApplication.Controllers
             return View();
         }
 
+        [Authorize(Roles = "admin")]
         public IActionResult Privacy()
         {
             return View();
