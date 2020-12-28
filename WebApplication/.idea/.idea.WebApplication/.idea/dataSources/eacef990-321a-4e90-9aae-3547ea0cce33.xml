@@ -789,7 +789,7 @@ false Zulu
     <database id="2" parent="1" name="User">
       <ObjectId>16543</ObjectId>
       <Owner>postgres</Owner>
-      <IntrospectionStateNumber>613</IntrospectionStateNumber>
+      <IntrospectionStateNumber>615</IntrospectionStateNumber>
       <Current>1</Current>
       <Relations>sequence|table|16560|16562|1
 sequence|table|16575|16577|1
@@ -861,7 +861,7 @@ sequence|table|16575|16577|1
       <Comment>standard public schema</Comment>
       <StateNumber>287</StateNumber>
       <Owner>postgres</Owner>
-      <IntrospectionStateNumber>614</IntrospectionStateNumber>
+      <IntrospectionStateNumber>616</IntrospectionStateNumber>
       <Current>1</Current>
     </schema>
     <access-method id="19" parent="2" name="heap">

@@ -14,13 +14,18 @@
         <e p="bin" t="ExcludeRecursive" />
         <e p="Controllers" t="Include">
           <e p="AccountController.cs" t="Include" />
+          <e p="BookController.cs" t="Include" />
           <e p="HomeController.cs" t="Include" />
           <e p="RolesController.cs" t="Include" />
+          <e p="SageController.cs" t="Include" />
           <e p="UsersController.cs" t="Include" />
         </e>
         <e p="Models" t="Include">
           <e p="ApplicationContext.cs" t="Include" />
+          <e p="Book.cs" t="Include" />
           <e p="ErrorViewModel.cs" t="Include" />
+          <e p="Sage.cs" t="Include" />
+          <e p="SageBookContext.cs" t="Include" />
           <e p="User.cs" t="Include" />
         </e>
         <e p="obj" t="ExcludeRecursive">
@@ -50,6 +55,13 @@
             <e p="Login.cshtml" t="Include" />
             <e p="Register.cshtml" t="Include" />
           </e>
+          <e p="Book" t="Include">
+            <e p="Create.cshtml" t="Include" />
+            <e p="Delete.cshtml" t="Include" />
+            <e p="Details.cshtml" t="Include" />
+            <e p="Edit.cshtml" t="Include" />
+            <e p="Index.cshtml" t="Include" />
+          </e>
           <e p="Home" t="Include">
             <e p="Index.cshtml" t="Include" />
             <e p="Privacy.cshtml" t="Include" />
@@ -59,6 +71,14 @@
             <e p="Edit.cshtml" t="Include" />
             <e p="Index.cshtml" t="Include" />
             <e p="UserList.cshtml" t="Include" />
+          </e>
+          <e p="Sage" t="Include">
+            <e p="Create.cshtml" t="Include" />
+            <e p="Delete.cshtml" t="Include" />
+            <e p="Details.cshtml" t="Include" />
+            <e p="Edit.cshtml" t="Include" />
+            <e p="Index.cshtml" t="Include" />
+            <e p="SageBooks.cshtml" t="Include" />
           </e>
           <e p="Shared" t="Include">
             <e p="_Layout.cshtml" t="Include" />

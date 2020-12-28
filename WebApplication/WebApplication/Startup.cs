@@ -29,6 +29,9 @@ namespace WebApplication
             services.AddDbContext<ApplicationContext>(options =>
                 options.UseNpgsql(Configuration.GetConnectionString("DefaultConnection")));
 
+            services.AddDbContext<SageBookContext>(options =>
+                options.UseNpgsql(Configuration.GetConnectionString("SageBookConnection")));
+            
             services.AddIdentity<User, IdentityRole>()
                 .AddEntityFrameworkStores<ApplicationContext>();
 
