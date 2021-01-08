@@ -21,6 +21,7 @@ namespace WebApplication.Controllers
         [HttpGet]
         public IActionResult Index() => View(_userManager.Users.ToList());
 
+        
         [HttpGet]
         public IActionResult Create() => View();
 

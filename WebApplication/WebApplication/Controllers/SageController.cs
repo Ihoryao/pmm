@@ -1,11 +1,13 @@
 ﻿using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using WebApplication.Models;
 
 namespace WebApplication.Controllers
 {
+    [Authorize(Roles = "admin")]
     public class SageController : Controller
     {
         private readonly SageBookContext _context;
@@ -17,6 +19,7 @@ namespace WebApplication.Controllers
 
 
         // GET: Sage/Index
+        
         [HttpGet]
         public async Task<IActionResult> Index()
         {
@@ -170,7 +173,7 @@ namespace WebApplication.Controllers
 
         // POST: Sage/Delete/5
         [HttpPost, ActionName("DeleteConfirmed")]
-        //[ValidateAntiForgeryToken]
+        [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(int id)
         {
             var sage = await _context.Sages.FindAsync(id);

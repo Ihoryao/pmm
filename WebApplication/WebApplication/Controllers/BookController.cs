@@ -1,4 +1,5 @@
 ﻿using System.Threading.Tasks;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using WebApplication.Models;
@@ -40,7 +41,8 @@ namespace WebApplication.Controllers
             return View(book);
         }
 
-        // GET: Sages/Edit/5
+        // GET: Books/Edit/5
+        [Authorize(Roles = "admin")]
         [HttpGet]
         public async Task<IActionResult> Edit(int? id)
         {
@@ -61,6 +63,7 @@ namespace WebApplication.Controllers
         // POST: Books/Edit/5
         // To protect from overposting attacks, please enable the specific properties you want to bind to, for 
         // more details see http://go.microsoft.com/fwlink/?LinkId=317598.
+        [Authorize(Roles = "admin")]
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Edit(int id, [Bind("BookId,Name,Description")] Book book)
@@ -96,6 +99,7 @@ namespace WebApplication.Controllers
         }
 
         // GET: Book/Create/5
+        [Authorize(Roles = "admin")]
         [HttpGet]
         public IActionResult Create()
         {
@@ -103,6 +107,7 @@ namespace WebApplication.Controllers
         }
 
         // POST: Book/Create/5
+        [Authorize(Roles = "admin")]
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create(
@@ -129,6 +134,7 @@ namespace WebApplication.Controllers
         }
 
         // GET: Book/Delete/5
+        [Authorize(Roles="admin")]
         [HttpGet]
         public async Task<IActionResult> Delete(int? id, bool? saveChangesError = false)
         {
@@ -156,8 +162,9 @@ namespace WebApplication.Controllers
         }
 
         // POST: Book/Delete/5
+        [Authorize(Roles="admin")]
         [HttpPost, ActionName("DeleteConfirmed")]
-        //[ValidateAntiForgeryToken]
+        [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(int id)
         {
             var book = await _context.Books.FindAsync(id);
