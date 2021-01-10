@@ -39,7 +39,6 @@ namespace WebAPIApplication.Controllers
             // return new ObjectResult(book);
         }
 
-
         // POST: api/TodoItems
         [HttpPost]
         public async Task<ActionResult<Book>> Post(Book book)
@@ -51,44 +50,35 @@ namespace WebAPIApplication.Controllers
             return CreatedAtAction(nameof(Get), new {id = book.BookId}, book);
         }
 
-
-        // PUT api/users/
+        // PUT: api/TodoItems/5
+        //[HttpPut("{id}")]
         [HttpPut]
-        public async Task<ActionResult<Book>> Put(Book book)
+        public async Task<IActionResult> Put(Book book)
         {
+
             if (book == null)
             {
                 return BadRequest();
             }
-            // if (!_context.Books.Find(b))
-            // {
-            //     return NotFound();
-            // }
+
+            if (!_context.Books.Any(b => b.BookId == book.BookId))
+            {
+                return NotFound();
+            }
 
             _context.Books.Update(book);
             await _context.SaveChangesAsync();
-            return Ok(book);
-        }
+            //_context.Entry(book).State = EntityState.Modified;
 
-        // // PUT: api/TodoItems/5
-        // [HttpPut("{id}")]
-        // public async Task<IActionResult> Put(long id, Book book)
-        // {
-        //     if (id != book.BookId)
-        //     {
-        //         return BadRequest();
-        //     }
-        //
-        //     _context.Entry(book).State = EntityState.Modified;
-        //     await _context.SaveChangesAsync();
-        //     return NoContent();
-        // }
+            //return Ok(book);
+            return NoContent();
+        }
 
         // DELETE api/users/5
         [HttpDelete("{id}")]
         public async Task<ActionResult<User>> Delete(int id)
         {
-            Book book = _context.Books.FirstOrDefault(x => x.BookId == id);
+            Book book = await _context.Books.FindAsync(id);
             if (book == null)
             {
                 return NotFound();
@@ -96,7 +86,9 @@ namespace WebAPIApplication.Controllers
 
             _context.Books.Remove(book);
             await _context.SaveChangesAsync();
-            return Ok(book);
+
+            return NoContent();
+            //return Ok(book);
         }
     }
 }
