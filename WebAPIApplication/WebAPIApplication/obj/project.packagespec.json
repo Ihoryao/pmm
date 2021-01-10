@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "C:\\Users\\Admin\\Desktop\\ПММ-11\\Серверне WEB програмування (Любінський Б.Д.)\\Лабораторні роботи\\repo\\WebApplication\\WebApplication\\WebApplication.csproj",
-    "projectName": "WebApplication",
-    "projectPath": "C:\\Users\\Admin\\Desktop\\ПММ-11\\Серверне WEB програмування (Любінський Б.Д.)\\Лабораторні роботи\\repo\\WebApplication\\WebApplication\\WebApplication.csproj",
-    "outputPath": "C:\\Users\\Admin\\Desktop\\ПММ-11\\Серверне WEB програмування (Любінський Б.Д.)\\Лабораторні роботи\\repo\\WebApplication\\WebApplication\\obj\\",
+    "projectUniqueName": "C:\\Users\\Admin\\Desktop\\ПММ-11\\Серверне WEB програмування (Любінський Б.Д.)\\Лабораторні роботи\\repo\\WebAPIApplication\\WebAPIApplication\\WebAPIApplication.csproj",
+    "projectName": "WebAPIApplication",
+    "projectPath": "C:\\Users\\Admin\\Desktop\\ПММ-11\\Серверне WEB програмування (Любінський Б.Д.)\\Лабораторні роботи\\repo\\WebAPIApplication\\WebAPIApplication\\WebAPIApplication.csproj",
+    "outputPath": "C:\\Users\\Admin\\Desktop\\ПММ-11\\Серверне WEB програмування (Любінський Б.Д.)\\Лабораторні роботи\\repo\\WebAPIApplication\\WebAPIApplication\\obj\\",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -28,16 +28,6 @@
   },
   "frameworks": {
     "netcoreapp3.1": {
-      "dependencies": {
-        "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
-          "target": "Package",
-          "version": "[5.0.1, )"
-        },
-        "Npgsql.EntityFrameworkCore.PostgreSQL": {
-          "target": "Package",
-          "version": "[5.0.1, )"
-        }
-      },
       "imports": [
         "net461",
         "net462",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Desktop\\ПММ-11\\Серверне WEB програмування (Любінський Б.Д.)\\Лабораторні роботи\\Lab2\\pmm\\WebApplication\\WebApplication\\WebApplication.csproj": {}
+    "C:\\Users\\Admin\\Desktop\\ПММ-11\\Серверне WEB програмування (Любінський Б.Д.)\\Лабораторні роботи\\repo\\WebApplication\\WebApplication\\WebApplication.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Desktop\\ПММ-11\\Серверне WEB програмування (Любінський Б.Д.)\\Лабораторні роботи\\Lab2\\pmm\\WebApplication\\WebApplication\\WebApplication.csproj": {
+    "C:\\Users\\Admin\\Desktop\\ПММ-11\\Серверне WEB програмування (Любінський Б.Д.)\\Лабораторні роботи\\repo\\WebApplication\\WebApplication\\WebApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\ПММ-11\\Серверне WEB програмування (Любінський Б.Д.)\\Лабораторні роботи\\Lab2\\pmm\\WebApplication\\WebApplication\\WebApplication.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\ПММ-11\\Серверне WEB програмування (Любінський Б.Д.)\\Лабораторні роботи\\repo\\WebApplication\\WebApplication\\WebApplication.csproj",
         "projectName": "WebApplication",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\ПММ-11\\Серверне WEB програмування (Любінський Б.Д.)\\Лабораторні роботи\\Lab2\\pmm\\WebApplication\\WebApplication\\WebApplication.csproj",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\ПММ-11\\Серверне WEB програмування (Любінський Б.Д.)\\Лабораторні роботи\\repo\\WebApplication\\WebApplication\\WebApplication.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\ПММ-11\\Серверне WEB програмування (Любінський Б.Д.)\\Лабораторні роботи\\Lab2\\pmm\\WebApplication\\WebApplication\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\ПММ-11\\Серверне WEB програмування (Любінський Б.Д.)\\Лабораторні роботи\\repo\\WebApplication\\WebApplication\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
