@@ -11,6 +11,11 @@
         <e p="appsettings.Development.json" t="Include" />
         <e p="appsettings.json" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
+        <e p="Controllers" t="Include" />
+        <e p="Models" t="Include">
+          <e p="Book.cs" t="Include" />
+          <e p="Sage.cs" t="Include" />
+        </e>
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
             <e p="netcoreapp3.1" t="Include">
@@ -23,7 +28,9 @@
           <e p="launchSettings.json" t="Include" />
         </e>
         <e p="Startup.cs" t="Include" />
+        <e p="Views" t="Include" />
         <e p="WebAPIApplication.csproj" t="IncludeRecursive" />
+        <e p="wwwroot" t="Include" />
       </e>
       <e p="WebAPIApplication.sln" t="IncludeFlat" />
     </e>
