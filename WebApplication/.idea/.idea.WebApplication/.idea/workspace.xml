@@ -23,19 +23,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="648dfb8e-3154-4c88-91af-9329a7fa9bf1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../WebAPIApplication/WebAPIApplication/Models/AuthContext.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WebAPIApplication/WebAPIApplication/Models/SageBookContext.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WebAPIApplication/WebAPIApplication/Models/User.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAPIApplication/WebAPIApplication/Controllers/BookController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAPIApplication/WebAPIApplication/Controllers/SageController.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../WebAPIApplication/.idea/.idea.WebAPIApplication/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIApplication/.idea/.idea.WebAPIApplication/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../WebAPIApplication/.idea/.idea.WebAPIApplication/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIApplication/.idea/.idea.WebAPIApplication/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebAPIApplication/WebAPIApplication/Properties/launchSettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIApplication/WebAPIApplication/Properties/launchSettings.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../WebAPIApplication/WebAPIApplication/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIApplication/WebAPIApplication/Startup.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WebAPIApplication/WebAPIApplication/bin/Debug/netcoreapp3.1/WebAPIApplication.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIApplication/WebAPIApplication/bin/Debug/netcoreapp3.1/WebAPIApplication.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebAPIApplication/WebAPIApplication/WebAPIApplication.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIApplication/WebAPIApplication/WebAPIApplication.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebAPIApplication/WebAPIApplication/bin/Debug/netcoreapp3.1/Properties/launchSettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIApplication/WebAPIApplication/bin/Debug/netcoreapp3.1/Properties/launchSettings.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../WebAPIApplication/WebAPIApplication/bin/Debug/netcoreapp3.1/WebAPIApplication.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIApplication/WebAPIApplication/bin/Debug/netcoreapp3.1/WebAPIApplication.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../WebAPIApplication/WebAPIApplication/bin/Debug/netcoreapp3.1/WebAPIApplication.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIApplication/WebAPIApplication/bin/Debug/netcoreapp3.1/WebAPIApplication.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WebAPIApplication/WebAPIApplication/bin/Debug/netcoreapp3.1/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIApplication/WebAPIApplication/bin/Debug/netcoreapp3.1/appsettings.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../WebAPIApplication/WebAPIApplication/obj/Debug/netcoreapp3.1/WebAPIApplication.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIApplication/WebAPIApplication/obj/Debug/netcoreapp3.1/WebAPIApplication.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WebAPIApplication/WebAPIApplication/obj/Debug/netcoreapp3.1/WebAPIApplication.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIApplication/WebAPIApplication/obj/Debug/netcoreapp3.1/WebAPIApplication.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WebAPIApplication/WebAPIApplication/obj/Debug/netcoreapp3.1/WebAPIApplication.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIApplication/WebAPIApplication/obj/Debug/netcoreapp3.1/WebAPIApplication.csprojAssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../WebAPIApplication/WebAPIApplication/obj/Debug/netcoreapp3.1/WebAPIApplication.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIApplication/WebAPIApplication/obj/Debug/netcoreapp3.1/WebAPIApplication.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../WebAPIApplication/WebAPIApplication/obj/Debug/netcoreapp3.1/WebAPIApplication.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIApplication/WebAPIApplication/obj/Debug/netcoreapp3.1/WebAPIApplication.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.WebApplication/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.WebApplication/.idea/workspace.xml" afterDir="false" />
@@ -161,7 +159,7 @@
       <workItem from="1610121465640" duration="2561000" />
       <workItem from="1610193539612" duration="8706000" />
       <workItem from="1610279836556" duration="477000" />
-      <workItem from="1610280543215" duration="2687000" />
+      <workItem from="1610280543215" duration="8719000" />
     </task>
     <servers />
   </component>

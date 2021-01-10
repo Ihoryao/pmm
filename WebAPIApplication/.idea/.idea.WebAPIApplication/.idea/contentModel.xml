@@ -11,7 +11,10 @@
         <e p="appsettings.Development.json" t="Include" />
         <e p="appsettings.json" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
-        <e p="Controllers" t="Include" />
+        <e p="Controllers" t="Include">
+          <e p="BookController.cs" t="Include" />
+          <e p="SageController.cs" t="Include" />
+        </e>
         <e p="Models" t="Include">
           <e p="AuthContext.cs" t="Include" />
           <e p="Book.cs" t="Include" />
