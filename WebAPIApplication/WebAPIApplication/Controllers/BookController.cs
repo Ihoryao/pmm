@@ -50,7 +50,7 @@ namespace WebAPIApplication.Controllers
             return CreatedAtAction(nameof(Get), new {id = book.BookId}, book);
         }
 
-        // PUT: api/TodoItems/5
+        // PUT: api/TodoItems
         //[HttpPut("{id}")]
         [HttpPut]
         public async Task<IActionResult> Put(Book book)

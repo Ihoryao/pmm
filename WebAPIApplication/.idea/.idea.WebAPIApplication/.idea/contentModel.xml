@@ -12,8 +12,11 @@
         <e p="appsettings.json" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
         <e p="Controllers" t="Include">
+          <e p="AuthController.cs" t="Include" />
           <e p="BookController.cs" t="Include" />
+          <e p="RoleController.cs" t="Include" />
           <e p="SageController.cs" t="Include" />
+          <e p="UserController.cs" t="Include" />
         </e>
         <e p="Models" t="Include">
           <e p="AuthContext.cs" t="Include" />
@@ -40,7 +43,6 @@
           <e p="css" t="Include">
             <e p="site.css" t="Include" />
           </e>
-          <e p="index.html" t="Include" />
           <e p="lib" t="Include">
             <e p="bootstrap" t="Include">
               <e p="dist" t="Include">

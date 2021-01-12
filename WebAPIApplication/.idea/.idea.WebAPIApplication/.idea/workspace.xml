@@ -20,51 +20,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dceb5fe0-db05-4130-8593-c32c7c2cfc31" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/WebAPIApplication/wwwroot/css/site.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebAPIApplication/wwwroot/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebAPIApplication/wwwroot/lib/bootstrap/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebAPIApplication/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebAPIApplication/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebAPIApplication/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebAPIApplication/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebAPIApplication/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebAPIApplication/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebAPIApplication/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebAPIApplication/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebAPIApplication/wwwroot/lib/bootstrap/dist/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebAPIApplication/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebAPIApplication/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebAPIApplication/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebAPIApplication/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebAPIApplication/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebAPIApplication/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebAPIApplication/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebAPIApplication/wwwroot/lib/bootstrap/dist/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebAPIApplication/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebAPIApplication/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebAPIApplication/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebAPIApplication/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebAPIApplication/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebAPIApplication/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebAPIApplication/wwwroot/lib/jquery-validation/LICENSE.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebAPIApplication/wwwroot/lib/jquery-validation/dist/additional-methods.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebAPIApplication/wwwroot/lib/jquery-validation/dist/additional-methods.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebAPIApplication/wwwroot/lib/jquery-validation/dist/jquery.validate.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebAPIApplication/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebAPIApplication/wwwroot/lib/jquery/LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebAPIApplication/wwwroot/lib/jquery/dist/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebAPIApplication/wwwroot/lib/jquery/dist/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebAPIApplication/wwwroot/lib/jquery/dist/jquery.min.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebAPIApplication/Controllers/AuthController.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.WebAPIApplication/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.WebAPIApplication/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.WebAPIApplication/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.WebAPIApplication/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebAPIApplication/Controllers/BookController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WebAPIApplication/Controllers/BookController.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WebAPIApplication/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WebAPIApplication/Startup.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebAPIApplication/WebAPIApplication.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/WebAPIApplication/WebAPIApplication.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WebAPIApplication/bin/Debug/netcoreapp3.1/WebAPIApplication.dll" beforeDir="false" afterPath="$PROJECT_DIR$/WebAPIApplication/bin/Debug/netcoreapp3.1/WebAPIApplication.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WebAPIApplication/bin/Debug/netcoreapp3.1/WebAPIApplication.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/WebAPIApplication/bin/Debug/netcoreapp3.1/WebAPIApplication.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebAPIApplication/obj/Debug/netcoreapp3.1/WebAPIApplication.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/WebAPIApplication/obj/Debug/netcoreapp3.1/WebAPIApplication.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebAPIApplication/obj/Debug/netcoreapp3.1/WebAPIApplication.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/WebAPIApplication/obj/Debug/netcoreapp3.1/WebAPIApplication.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WebAPIApplication/obj/Debug/netcoreapp3.1/WebAPIApplication.dll" beforeDir="false" afterPath="$PROJECT_DIR$/WebAPIApplication/obj/Debug/netcoreapp3.1/WebAPIApplication.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WebAPIApplication/obj/Debug/netcoreapp3.1/WebAPIApplication.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/WebAPIApplication/obj/Debug/netcoreapp3.1/WebAPIApplication.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebAPIApplication/wwwroot/index.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../WebApplication/.idea/.idea.WebApplication/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication/.idea/.idea.WebApplication/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WebApplication/WebApplication/wwwroot/css/site.css" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication/WebApplication/wwwroot/css/site.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebApplication/WebApplication/Models/Book.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication/WebApplication/Models/Book.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,22 +50,30 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/687CD3EF-1206-406C-8B82-2CB02EE0595E/1/ConfigurationExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/WebAPIApplication/Models/Sage.cs" />
         <option value="$PROJECT_DIR$/WebAPIApplication/Models/Book.cs" />
         <option value="$PROJECT_DIR$/WebAPIApplication/appsettings.json" />
-        <option value="$PROJECT_DIR$/WebAPIApplication/Models/User.cs" />
         <option value="$PROJECT_DIR$/WebAPIApplication/Models/SageBookContext.cs" />
-        <option value="$PROJECT_DIR$/WebAPIApplication/Models/AuthContext.cs" />
         <option value="$PROJECT_DIR$/WebAPIApplication/Properties/launchSettings.json" />
-        <option value="$PROJECT_DIR$/WebAPIApplication/Controllers/BookController.cs" />
         <option value="$PROJECT_DIR$/WebAPIApplication/Controllers/SageController.cs" />
-        <option value="$PROJECT_DIR$/WebAPIApplication/Controllers/UserController.cs" />
-        <option value="$PROJECT_DIR$/WebAPIApplication/Startup.cs" />
         <option value="$PROJECT_DIR$/WebAPIApplication/wwwroot/css/site.css" />
         <option value="$PROJECT_DIR$/WebAPIApplication/wwwroot/index.html" />
+        <option value="$PROJECT_DIR$/WebAPIApplication/Views/Role/index.cshtml.cs" />
+        <option value="$PROJECT_DIR$/WebAPIApplication/Views/Role/index.cshtml" />
+        <option value="$PROJECT_DIR$/WebAPIApplication/Models/Sage.cs" />
+        <option value="$PROJECT_DIR$/WebAPIApplication/Controllers/BookController.cs" />
+        <option value="$PROJECT_DIR$/WebAPIApplication/Controllers/AuthController.cs" />
+        <option value="$PROJECT_DIR$/WebAPIApplication/Models/User.cs" />
+        <option value="$PROJECT_DIR$/WebAPIApplication/Models/Role.cs" />
+        <option value="$PROJECT_DIR$/WebAPIApplication/Models/AuthContext.cs" />
+        <option value="$PROJECT_DIR$/WebAPIApplication/Startup.cs" />
+        <option value="$PROJECT_DIR$/WebAPIApplication/Controllers/RoleController.cs" />
+        <option value="$PROJECT_DIR$/WebAPIApplication/Controllers/UserController.cs" />
       </list>
     </option>
   </component>
@@ -155,7 +132,10 @@
       <option name="presentableId" value="Default" />
       <updated>1610280489135</updated>
       <workItem from="1610280497892" duration="16919000" />
-      <workItem from="1610362991600" duration="1947000" />
+      <workItem from="1610362991600" duration="2217000" />
+      <workItem from="1610408076270" duration="1217000" />
+      <workItem from="1610443229661" duration="105000" />
+      <workItem from="1610468933394" duration="7474000" />
     </task>
     <servers />
   </component>
@@ -175,22 +155,22 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1493" height="158" key="GridCell.Tab.0.bottom" timestamp="1610364324875">
+    <state width="1493" height="118" key="GridCell.Tab.0.bottom" timestamp="1610477145267">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="158" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1610364324875" />
-    <state width="1493" height="158" key="GridCell.Tab.0.center" timestamp="1610364324875">
+    <state width="1493" height="118" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1610477145267" />
+    <state width="1493" height="118" key="GridCell.Tab.0.center" timestamp="1610477145267">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="158" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1610364324875" />
-    <state width="1493" height="158" key="GridCell.Tab.0.left" timestamp="1610364324875">
+    <state width="1493" height="118" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1610477145267" />
+    <state width="1493" height="118" key="GridCell.Tab.0.left" timestamp="1610477145267">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="158" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1610364324875" />
-    <state width="1493" height="158" key="GridCell.Tab.0.right" timestamp="1610364324875">
+    <state width="1493" height="118" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1610477145267" />
+    <state width="1493" height="118" key="GridCell.Tab.0.right" timestamp="1610477145267">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="158" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1610364324875" />
+    <state width="1493" height="118" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1610477145267" />
     <state width="1493" height="183" key="GridCell.Tab.1.bottom" timestamp="1610325258857">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -255,9 +235,17 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="183" key="GridCell.Tab.4.right/0.0.1536.824@0.0.1536.824" timestamp="1610325258858" />
-    <state x="93" y="93" width="1350" height="638" key="VCS.FileHistoryDialog" timestamp="1610297001783">
+    <state x="361" y="144" key="Rider.ProjectTemplateDialog.Size" timestamp="1610367463555">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="93" y="93" width="1350" height="638" key="VCS.FileHistoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1610297001783" />
+    <state x="361" y="144" key="Rider.ProjectTemplateDialog.Size/0.0.1536.824@0.0.1536.824" timestamp="1610367463555" />
+    <state x="93" y="93" width="1350" height="638" key="VCS.FileHistoryDialog" timestamp="1610476290469">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="VCS.FileHistoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1610476290469" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1610473506235">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1610473506235" />
   </component>
 </project>
