@@ -23,20 +23,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="648dfb8e-3154-4c88-91af-9329a7fa9bf1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../WebAPIApplication/WebAPIApplication/Controllers/AuthController.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../WebAPIApplication/.idea/.idea.WebAPIApplication/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIApplication/.idea/.idea.WebAPIApplication/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../WebAPIApplication/.idea/.idea.WebAPIApplication/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIApplication/.idea/.idea.WebAPIApplication/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WebAPIApplication/WebAPIApplication/Controllers/BookController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIApplication/WebAPIApplication/Controllers/BookController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WebAPIApplication/WebAPIApplication/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIApplication/WebAPIApplication/Startup.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WebAPIApplication/WebAPIApplication/bin/Debug/netcoreapp3.1/WebAPIApplication.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIApplication/WebAPIApplication/bin/Debug/netcoreapp3.1/WebAPIApplication.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WebAPIApplication/WebAPIApplication/bin/Debug/netcoreapp3.1/WebAPIApplication.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIApplication/WebAPIApplication/bin/Debug/netcoreapp3.1/WebAPIApplication.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WebAPIApplication/WebAPIApplication/obj/Debug/netcoreapp3.1/WebAPIApplication.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIApplication/WebAPIApplication/obj/Debug/netcoreapp3.1/WebAPIApplication.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WebAPIApplication/WebAPIApplication/obj/Debug/netcoreapp3.1/WebAPIApplication.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIApplication/WebAPIApplication/obj/Debug/netcoreapp3.1/WebAPIApplication.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WebAPIApplication/WebAPIApplication/obj/Debug/netcoreapp3.1/WebAPIApplication.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIApplication/WebAPIApplication/obj/Debug/netcoreapp3.1/WebAPIApplication.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WebAPIApplication/WebAPIApplication/obj/Debug/netcoreapp3.1/WebAPIApplication.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIApplication/WebAPIApplication/obj/Debug/netcoreapp3.1/WebAPIApplication.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WebAPIApplication/WebAPIApplication/wwwroot/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebAPIApplication/WebAPIApplication/Controllers/AuthController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebAPIApplication/WebAPIApplication/Controllers/SageController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIApplication/WebAPIApplication/Controllers/SageController.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.WebApplication/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.WebApplication/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebApplication/Models/Book.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplication/Models/Book.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -162,7 +153,7 @@
       <workItem from="1610280543215" duration="10473000" />
       <workItem from="1610363051539" duration="2528000" />
       <workItem from="1610406435607" duration="1626000" />
-      <workItem from="1610473033419" duration="3066000" />
+      <workItem from="1610473033419" duration="3793000" />
     </task>
     <servers />
   </component>

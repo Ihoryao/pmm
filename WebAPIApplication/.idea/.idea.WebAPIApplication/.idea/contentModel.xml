@@ -12,7 +12,6 @@
         <e p="appsettings.json" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
         <e p="Controllers" t="Include">
-          <e p="AuthController.cs" t="Include" />
           <e p="BookController.cs" t="Include" />
           <e p="RoleController.cs" t="Include" />
           <e p="SageController.cs" t="Include" />

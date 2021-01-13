@@ -39,6 +39,20 @@ namespace WebAPIApplication.Controllers
             // return new ObjectResult(book);
         }
 
+        // GET: api/Sage/5
+        // [HttpGet("api/Sage/GetSageBooks/{id}")]
+        // public async Task<ActionResult<Sage>> GetSageBooks(int id)
+        // {
+        //     Sage sage = await _context.Sages.FindAsync(id);
+        //     if (sage == null)
+        //     {
+        //         return NotFound();
+        //     }
+        //
+        //     return sage;
+        //     // return new ObjectResult(book);
+        // }
+
         // POST: api/Post
         [HttpPost]
         public async Task<ActionResult<Sage>> Post(Sage sage)

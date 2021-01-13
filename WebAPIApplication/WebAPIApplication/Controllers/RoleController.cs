@@ -1,5 +1,6 @@
 ﻿using System.Collections.Generic;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
@@ -7,6 +8,8 @@ using Microsoft.EntityFrameworkCore;
 
 namespace WebAPIApplication.Controllers
 {
+    
+    //[Authorize("Admin")]
     [Route("api/role")]
     [ApiController]
     public class RoleController : ControllerBase
