@@ -17,6 +17,11 @@
           <e p="SageController.cs" t="Include" />
           <e p="UserController.cs" t="Include" />
         </e>
+        <e p="DAL" t="Include">
+          <e p="IRepository.cs" t="Include" />
+          <e p="SageBookRepository.cs" t="Include" />
+          <e p="UnitOfWork.cs" t="Include" />
+        </e>
         <e p="Models" t="Include">
           <e p="AuthContext.cs" t="Include" />
           <e p="Book.cs" t="Include" />
