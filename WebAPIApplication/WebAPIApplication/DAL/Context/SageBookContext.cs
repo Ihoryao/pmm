@@ -4,6 +4,11 @@ namespace WebAPIApplication.Models
 {
     public class SageBookContext : DbContext
     {
+        public SageBookContext()
+        {
+            Database.EnsureCreated();
+        }
+
         public SageBookContext(DbContextOptions<SageBookContext> options) : base(options)
         {
             Database.EnsureCreated();
@@ -12,10 +17,10 @@ namespace WebAPIApplication.Models
         public DbSet<Sage> Sages { get; set; }
         public DbSet<Book> Books { get; set; }
 
-        // protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-        // {
-        //     optionsBuilder.UseNpgsql("Host=localhost;Port=5432;Database=testDB;Username=postgres;Password=2402076");
-        // }
+        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        {
+            optionsBuilder.UseNpgsql("Host=localhost;Port=5432;Database=testDB;Username=postgres;Password=2402076");
+        }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {

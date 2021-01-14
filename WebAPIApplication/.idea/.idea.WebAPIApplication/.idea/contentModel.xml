@@ -18,15 +18,18 @@
           <e p="UserController.cs" t="Include" />
         </e>
         <e p="DAL" t="Include">
+          <e p="BookRepository.cs" t="Include" />
+          <e p="Context" t="Include">
+            <e p="AuthContext.cs" t="Include" />
+            <e p="SageBookContext.cs" t="Include" />
+          </e>
           <e p="IRepository.cs" t="Include" />
-          <e p="SageBookRepository.cs" t="Include" />
+          <e p="SageRepository.cs" t="Include" />
           <e p="UnitOfWork.cs" t="Include" />
         </e>
         <e p="Models" t="Include">
-          <e p="AuthContext.cs" t="Include" />
           <e p="Book.cs" t="Include" />
           <e p="Sage.cs" t="Include" />
-          <e p="SageBookContext.cs" t="Include" />
           <e p="User.cs" t="Include" />
         </e>
         <e p="obj" t="ExcludeRecursive">
