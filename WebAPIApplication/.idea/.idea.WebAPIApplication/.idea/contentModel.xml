@@ -23,10 +23,10 @@
             <e p="AuthContext.cs" t="Include" />
             <e p="SageBookContext.cs" t="Include" />
           </e>
-          <e p="IdentityRepository.cs" t="Include" />
           <e p="IRepository.cs" t="Include" />
           <e p="SageRepository.cs" t="Include" />
           <e p="UnitOfWork.cs" t="Include" />
+          <e p="UserRepository.cs" t="Include" />
         </e>
         <e p="Models" t="Include">
           <e p="Book.cs" t="Include" />

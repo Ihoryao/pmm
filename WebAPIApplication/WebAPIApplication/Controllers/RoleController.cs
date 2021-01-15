@@ -28,5 +28,7 @@ namespace WebAPIApplication.Controllers
         {
             return await _roleManager.Roles.ToListAsync();
         }
+        
+        
     }
 }

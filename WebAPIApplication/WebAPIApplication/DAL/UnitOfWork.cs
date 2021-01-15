@@ -6,16 +6,19 @@ namespace WebAPIApplication.DAL
     public class UnitOfWork : IDisposable
     {
         private SageBookContext _context = new SageBookContext();
-        private BookRepository bookRepository;
-        private SageRepository sageRepository;
+        private BookRepository _bookRepository;
+        private SageRepository _sageRepository;
+        
+        private AuthContext _authContext = new AuthContext();
+        private UserRepository _userRepository;
 
         public BookRepository Books
         {
             get
             {
-                if (bookRepository == null)
-                    bookRepository = new BookRepository(_context);
-                return bookRepository;
+                if (_bookRepository == null)
+                    _bookRepository = new BookRepository(_context);
+                return _bookRepository;
             }
         }
 
@@ -23,12 +26,21 @@ namespace WebAPIApplication.DAL
         {
             get
             {
-                if (sageRepository == null)
-                    sageRepository = new SageRepository(_context);
-                return sageRepository;
+                if (_sageRepository == null)
+                    _sageRepository = new SageRepository(_context);
+                return _sageRepository;
             }
         }
 
+        public UserRepository Users
+        {
+            get
+            {
+                if (_userRepository == null)
+                    _userRepository = new UserRepository(_authContext);
+                return _userRepository;
+            }
+        }
         public void Save()
         {
             _context.SaveChanges();

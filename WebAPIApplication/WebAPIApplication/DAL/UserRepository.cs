@@ -4,11 +4,11 @@ using WebAPIApplication.Models;
 
 namespace WebAPIApplication.DAL
 {
-    public class IdentityRepository : IRepository<User>
+    public class UserRepository : IRepository<User>
     {
         private AuthContext _context;
 
-        public IdentityRepository(AuthContext context)
+        public UserRepository(AuthContext context)
         {
             this._context = context;
         }
