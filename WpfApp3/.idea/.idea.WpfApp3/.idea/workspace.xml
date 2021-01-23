@@ -4,11 +4,31 @@
     <projectFile>WpfApp3/WpfApp3.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5035006c-ece3-4761-b9a4-6e3014544f5d" name="Default Changelist" comment="" />
+    <list default="true" id="5035006c-ece3-4761-b9a4-6e3014544f5d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../SignalRApp/.idea/.idea.SignalRApp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SignalRApp/.idea/.idea.SignalRApp/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SignalRApp/SignalRApp/obj/Debug/netcoreapp3.1/SignalRApp.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../SignalRApp/SignalRApp/obj/Debug/netcoreapp3.1/SignalRApp.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SignalRApp/SignalRApp/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/../SignalRApp/SignalRApp/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebAPIApplication/.idea/.idea.WebAPIApplication/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIApplication/.idea/.idea.WebAPIApplication/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WpfApp3/bin/Debug/netcoreapp3.1/WpfApp3.dll" beforeDir="false" afterPath="$PROJECT_DIR$/WpfApp3/bin/Debug/netcoreapp3.1/WpfApp3.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WpfApp3/obj/Debug/netcoreapp3.1/MainWindow.baml" beforeDir="false" afterPath="$PROJECT_DIR$/WpfApp3/obj/Debug/netcoreapp3.1/MainWindow.baml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WpfApp3/obj/Debug/netcoreapp3.1/Windows/AddSageBookWindow.baml" beforeDir="false" afterPath="$PROJECT_DIR$/WpfApp3/obj/Debug/netcoreapp3.1/Windows/AddSageBookWindow.baml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WpfApp3/obj/Debug/netcoreapp3.1/Windows/CreateBookWindow.baml" beforeDir="false" afterPath="$PROJECT_DIR$/WpfApp3/obj/Debug/netcoreapp3.1/Windows/CreateBookWindow.baml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WpfApp3/obj/Debug/netcoreapp3.1/Windows/CreateSageWindow.baml" beforeDir="false" afterPath="$PROJECT_DIR$/WpfApp3/obj/Debug/netcoreapp3.1/Windows/CreateSageWindow.baml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WpfApp3/obj/Debug/netcoreapp3.1/Windows/UpdateBookWindow.baml" beforeDir="false" afterPath="$PROJECT_DIR$/WpfApp3/obj/Debug/netcoreapp3.1/Windows/UpdateBookWindow.baml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WpfApp3/obj/Debug/netcoreapp3.1/Windows/UpdateSageWindow.baml" beforeDir="false" afterPath="$PROJECT_DIR$/WpfApp3/obj/Debug/netcoreapp3.1/Windows/UpdateSageWindow.baml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WpfApp3/obj/Debug/netcoreapp3.1/WpfApp3.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/WpfApp3/obj/Debug/netcoreapp3.1/WpfApp3.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WpfApp3/obj/Debug/netcoreapp3.1/WpfApp3.dll" beforeDir="false" afterPath="$PROJECT_DIR$/WpfApp3/obj/Debug/netcoreapp3.1/WpfApp3.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WpfApp3/obj/Debug/netcoreapp3.1/WpfApp3.g.resources" beforeDir="false" afterPath="$PROJECT_DIR$/WpfApp3/obj/Debug/netcoreapp3.1/WpfApp3.g.resources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WpfApp3/obj/Debug/netcoreapp3.1/WpfApp3_MarkupCompile.cache" beforeDir="false" afterPath="$PROJECT_DIR$/WpfApp3/obj/Debug/netcoreapp3.1/WpfApp3_MarkupCompile.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WpfApp3/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/WpfApp3/obj/rider.project.restore.info" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/8E604C77-2D15-4B90-A34A-BDA2EFE2B56D/9b/201be235/TraceRoutedEvent.cs" root0="SKIP_HIGHLIGHTING" />
@@ -116,6 +136,7 @@
       <workItem from="1608893408469" duration="6869000" />
       <workItem from="1608983245892" duration="1232000" />
       <workItem from="1611327532857" duration="656000" />
+      <workItem from="1611410335582" duration="148000" />
     </task>
     <servers />
   </component>
@@ -130,22 +151,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="545" height="464" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1606138596375" />
-    <state width="1493" height="145" key="GridCell.Tab.0.bottom" timestamp="1608988898857">
+    <state width="1493" height="145" key="GridCell.Tab.0.bottom" timestamp="1611410484699">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="145" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1608988898857" />
-    <state width="1493" height="145" key="GridCell.Tab.0.center" timestamp="1608988898857">
+    <state width="1493" height="145" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1611410484699" />
+    <state width="1493" height="145" key="GridCell.Tab.0.center" timestamp="1611410484699">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="145" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1608988898857" />
-    <state width="1493" height="145" key="GridCell.Tab.0.left" timestamp="1608988898856">
+    <state width="1493" height="145" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1611410484699" />
+    <state width="1493" height="145" key="GridCell.Tab.0.left" timestamp="1611410484699">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="145" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1608988898856" />
-    <state width="1493" height="145" key="GridCell.Tab.0.right" timestamp="1608988898857">
+    <state width="1493" height="145" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1611410484699" />
+    <state width="1493" height="145" key="GridCell.Tab.0.right" timestamp="1611410484699">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="145" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1608988898857" />
+    <state width="1493" height="145" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1611410484699" />
     <state width="1493" height="98" key="GridCell.Tab.1.bottom" timestamp="1608934210737">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

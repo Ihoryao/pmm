@@ -20,144 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dceb5fe0-db05-4130-8593-c32c7c2cfc31" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/.idea/.idea.SignalRMVCApplication/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/.idea/.idea.SignalRMVCApplication/.idea/contentModel.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/.idea/.idea.SignalRMVCApplication/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/.idea/.idea.SignalRMVCApplication/.idea/indexLayout.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/.idea/.idea.SignalRMVCApplication/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/.idea/.idea.SignalRMVCApplication/.idea/projectSettingsUpdater.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/.idea/.idea.SignalRMVCApplication/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/.idea/.idea.SignalRMVCApplication/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/.idea/.idea.SignalRMVCApplication/riderModule.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication.sln" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/Controllers/HomeController.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/Models/ErrorViewModel.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/Program.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/Properties/launchSettings.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/SignalRMVCApplication.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/Startup.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/Views/Home/Index.cshtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/Views/Home/Privacy.cshtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/Views/Shared/Error.cshtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/Views/Shared/_Layout.cshtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/Views/Shared/_ValidationScriptsPartial.cshtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/Views/_ViewImports.cshtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/Views/_ViewStart.cshtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/appsettings.Development.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/appsettings.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Cryptography.Internal.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Identity.Core.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Identity.Stores.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/bin/Debug/netcoreapp3.1/Npgsql.EntityFrameworkCore.PostgreSQL.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/bin/Debug/netcoreapp3.1/Npgsql.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/bin/Debug/netcoreapp3.1/Properties/launchSettings.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/bin/Debug/netcoreapp3.1/SignalRMVCApplication.Views.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/bin/Debug/netcoreapp3.1/SignalRMVCApplication.Views.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/bin/Debug/netcoreapp3.1/SignalRMVCApplication.deps.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/bin/Debug/netcoreapp3.1/SignalRMVCApplication.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/bin/Debug/netcoreapp3.1/SignalRMVCApplication.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/bin/Debug/netcoreapp3.1/SignalRMVCApplication.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/bin/Debug/netcoreapp3.1/SignalRMVCApplication.runtimeconfig.dev.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/bin/Debug/netcoreapp3.1/SignalRMVCApplication.runtimeconfig.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/bin/Debug/netcoreapp3.1/System.ComponentModel.Annotations.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/bin/Debug/netcoreapp3.1/appsettings.Development.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/bin/Debug/netcoreapp3.1/appsettings.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/obj/Debug/netcoreapp3.1/SignalRMVCApplication.AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/obj/Debug/netcoreapp3.1/SignalRMVCApplication.AssemblyInfoInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/obj/Debug/netcoreapp3.1/SignalRMVCApplication.MvcApplicationPartsAssemblyInfo.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/obj/Debug/netcoreapp3.1/SignalRMVCApplication.RazorAssemblyInfo.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/obj/Debug/netcoreapp3.1/SignalRMVCApplication.RazorAssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/obj/Debug/netcoreapp3.1/SignalRMVCApplication.RazorCoreGenerate.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/obj/Debug/netcoreapp3.1/SignalRMVCApplication.RazorTargetAssemblyInfo.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/obj/Debug/netcoreapp3.1/SignalRMVCApplication.RazorTargetAssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/obj/Debug/netcoreapp3.1/SignalRMVCApplication.TagHelpers.input.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/obj/Debug/netcoreapp3.1/SignalRMVCApplication.TagHelpers.output.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/obj/Debug/netcoreapp3.1/SignalRMVCApplication.Views.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/obj/Debug/netcoreapp3.1/SignalRMVCApplication.Views.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/obj/Debug/netcoreapp3.1/SignalRMVCApplication.assets.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/obj/Debug/netcoreapp3.1/SignalRMVCApplication.csproj.CopyComplete" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/obj/Debug/netcoreapp3.1/SignalRMVCApplication.csproj.CoreCompileInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/obj/Debug/netcoreapp3.1/SignalRMVCApplication.csproj.FileListAbsolute.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/obj/Debug/netcoreapp3.1/SignalRMVCApplication.csprojAssemblyReference.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/obj/Debug/netcoreapp3.1/SignalRMVCApplication.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/obj/Debug/netcoreapp3.1/SignalRMVCApplication.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/obj/Debug/netcoreapp3.1/SignalRMVCApplication.genruntimeconfig.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/obj/Debug/netcoreapp3.1/SignalRMVCApplication.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/obj/Debug/netcoreapp3.1/staticwebassets/SignalRMVCApplication.StaticWebAssets.Manifest.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/obj/Debug/netcoreapp3.1/staticwebassets/SignalRMVCApplication.StaticWebAssets.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/obj/SignalRMVCApplication.csproj.nuget.dgspec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/obj/SignalRMVCApplication.csproj.nuget.g.props" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/obj/SignalRMVCApplication.csproj.nuget.g.targets" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/obj/project.assets.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/obj/project.nuget.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/obj/project.packagespec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/obj/rider.project.restore.info" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/wwwroot/css/site.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/wwwroot/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/wwwroot/js/site.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/wwwroot/lib/bootstrap/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/wwwroot/lib/bootstrap/dist/css/bootstrap.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/wwwroot/lib/bootstrap/dist/js/bootstrap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/wwwroot/lib/jquery-validation/LICENSE.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/wwwroot/lib/jquery-validation/dist/additional-methods.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/wwwroot/lib/jquery-validation/dist/additional-methods.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/wwwroot/lib/jquery-validation/dist/jquery.validate.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/wwwroot/lib/jquery/LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/wwwroot/lib/jquery/dist/jquery.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/wwwroot/lib/jquery/dist/jquery.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/SignalRMVCApplication/wwwroot/lib/jquery/dist/jquery.min.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.WebAPIApplication/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.WebAPIApplication/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebAPIApplication/obj/Debug/netcoreapp3.1/WebAPIApplication.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/WebAPIApplication/obj/Debug/netcoreapp3.1/WebAPIApplication.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebAPIApplication/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/WebAPIApplication/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WebApplication/.idea/.idea.WebApplication/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication/.idea/.idea.WebApplication/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WebApplication/WebApplication/obj/Debug/netcoreapp3.1/WebApplication.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication/WebApplication/obj/Debug/netcoreapp3.1/WebApplication.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WebApplication/WebApplication/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication/WebApplication/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SignalRApp/.idea/.idea.SignalRApp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SignalRApp/.idea/.idea.SignalRApp/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SignalRApp/SignalRApp/obj/Debug/netcoreapp3.1/SignalRApp.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../SignalRApp/SignalRApp/obj/Debug/netcoreapp3.1/SignalRApp.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SignalRApp/SignalRApp/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/../SignalRApp/SignalRApp/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -274,6 +139,7 @@
       <workItem from="1610519981840" duration="2651000" />
       <workItem from="1610645671359" duration="8307000" />
       <workItem from="1611325889335" duration="2704000" />
+      <workItem from="1611410294089" duration="34000" />
     </task>
     <servers />
   </component>
@@ -293,22 +159,22 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1493" height="118" key="GridCell.Tab.0.bottom" timestamp="1611328945635">
+    <state width="1493" height="118" key="GridCell.Tab.0.bottom" timestamp="1611410328403">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="118" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1611328945635" />
-    <state width="1493" height="118" key="GridCell.Tab.0.center" timestamp="1611328945635">
+    <state width="1493" height="118" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1611410328403" />
+    <state width="1493" height="118" key="GridCell.Tab.0.center" timestamp="1611410328402">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="118" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1611328945635" />
-    <state width="1493" height="118" key="GridCell.Tab.0.left" timestamp="1611328945635">
+    <state width="1493" height="118" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1611410328402" />
+    <state width="1493" height="118" key="GridCell.Tab.0.left" timestamp="1611410328402">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="118" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1611328945635" />
-    <state width="1493" height="118" key="GridCell.Tab.0.right" timestamp="1611328945635">
+    <state width="1493" height="118" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1611410328402" />
+    <state width="1493" height="118" key="GridCell.Tab.0.right" timestamp="1611410328403">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="118" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1611328945635" />
+    <state width="1493" height="118" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1611410328403" />
     <state width="1493" height="183" key="GridCell.Tab.1.bottom" timestamp="1610325258857">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

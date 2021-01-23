@@ -23,40 +23,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9b934595-2837-47a8-aa4c-a2d8d0a8c2cf" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.SignalRApp/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SignalRApp/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.SignalRApp/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SignalRApp/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.SignalRApp/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SignalRApp/.idea/indexLayout.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.SignalRApp/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SignalRApp/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.SignalRApp/.idea/projectSettingsUpdater.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SignalRApp/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.SignalRApp/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SignalRApp/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.SignalRApp/riderModule.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SignalRApp/riderModule.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SignalRApp/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SignalRApp/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SignalRApp/Properties/launchSettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/SignalRApp/Properties/launchSettings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SignalRApp/SignalRApp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/SignalRApp/SignalRApp.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SignalRApp/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SignalRApp/Startup.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SignalRApp/appsettings.Development.json" beforeDir="false" afterPath="$PROJECT_DIR$/SignalRApp/appsettings.Development.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SignalRApp/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/SignalRApp/appsettings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SignalRApp/bin/Debug/netcoreapp3.1/Properties/launchSettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/SignalRApp/bin/Debug/netcoreapp3.1/Properties/launchSettings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SignalRApp/bin/Debug/netcoreapp3.1/SignalRApp.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/SignalRApp/bin/Debug/netcoreapp3.1/SignalRApp.deps.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SignalRApp/bin/Debug/netcoreapp3.1/SignalRApp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/SignalRApp/bin/Debug/netcoreapp3.1/SignalRApp.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SignalRApp/bin/Debug/netcoreapp3.1/SignalRApp.runtimeconfig.dev.json" beforeDir="false" afterPath="$PROJECT_DIR$/SignalRApp/bin/Debug/netcoreapp3.1/SignalRApp.runtimeconfig.dev.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SignalRApp/bin/Debug/netcoreapp3.1/SignalRApp.runtimeconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/SignalRApp/bin/Debug/netcoreapp3.1/SignalRApp.runtimeconfig.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SignalRApp/bin/Debug/netcoreapp3.1/appsettings.Development.json" beforeDir="false" afterPath="$PROJECT_DIR$/SignalRApp/bin/Debug/netcoreapp3.1/appsettings.Development.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SignalRApp/bin/Debug/netcoreapp3.1/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/SignalRApp/bin/Debug/netcoreapp3.1/appsettings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SignalRApp/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SignalRApp/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SignalRApp/obj/Debug/netcoreapp3.1/SignalRApp.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SignalRApp/obj/Debug/netcoreapp3.1/SignalRApp.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SignalRApp/obj/Debug/netcoreapp3.1/SignalRApp.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SignalRApp/obj/Debug/netcoreapp3.1/SignalRApp.genruntimeconfig.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SignalRApp/obj/Debug/netcoreapp3.1/SignalRApp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/SignalRApp/obj/Debug/netcoreapp3.1/SignalRApp.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SignalRApp/obj/Debug/netcoreapp3.1/staticwebassets/SignalRApp.StaticWebAssets.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SignalRApp/obj/Debug/netcoreapp3.1/staticwebassets/SignalRApp.StaticWebAssets.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SignalRApp/obj/SignalRApp.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/SignalRApp/obj/SignalRApp.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SignalRApp/obj/SignalRApp.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/SignalRApp/obj/SignalRApp.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SignalRApp/obj/SignalRApp.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/SignalRApp/obj/SignalRApp.csproj.nuget.g.targets" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SignalRApp/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/SignalRApp/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SignalRApp/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SignalRApp/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SignalRApp/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/SignalRApp/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WebApplication/.idea/.idea.WebApplication/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WebApplication/.idea/.idea.WebApplication/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WpfApp3/WpfApp3/bin/Debug/netcoreapp3.1/WpfApp3.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../WpfApp3/WpfApp3/bin/Debug/netcoreapp3.1/WpfApp3.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WpfApp3/WpfApp3/obj/Debug/netcoreapp3.1/WpfApp3.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../WpfApp3/WpfApp3/obj/Debug/netcoreapp3.1/WpfApp3.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SignalRApp/obj/Debug/netcoreapp3.1/SignalRApp.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SignalRApp/obj/Debug/netcoreapp3.1/SignalRApp.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SignalRApp/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/SignalRApp/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,6 +97,7 @@
       <option name="presentableId" value="Default" />
       <updated>1611409249643</updated>
       <workItem from="1611409256002" duration="607000" />
+      <workItem from="1611410248861" duration="53000" />
     </task>
     <servers />
   </component>
@@ -145,26 +114,27 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1493" height="128" key="GridCell.Tab.0.bottom" timestamp="1611409867915">
+    <state width="1493" height="128" key="GridCell.Tab.0.bottom" timestamp="1611410303238">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="128" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1611409867915" />
-    <state width="1493" height="128" key="GridCell.Tab.0.center" timestamp="1611409867915">
+    <state width="1493" height="128" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1611410303238" />
+    <state width="1493" height="128" key="GridCell.Tab.0.center" timestamp="1611410303238">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="128" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1611409867915" />
-    <state width="1493" height="128" key="GridCell.Tab.0.left" timestamp="1611409867915">
+    <state width="1493" height="128" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1611410303238" />
+    <state width="1493" height="128" key="GridCell.Tab.0.left" timestamp="1611410303238">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="128" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1611409867915" />
-    <state width="1493" height="128" key="GridCell.Tab.0.right" timestamp="1611409867915">
+    <state width="1493" height="128" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1611410303238" />
+    <state width="1493" height="128" key="GridCell.Tab.0.right" timestamp="1611410303238">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="128" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1611409867915" />
+    <state width="1493" height="128" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1611410303238" />
   </component>
 </project>
