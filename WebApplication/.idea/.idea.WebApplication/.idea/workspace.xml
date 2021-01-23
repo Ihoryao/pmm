@@ -23,6 +23,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="648dfb8e-3154-4c88-91af-9329a7fa9bf1" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/.idea/.idea.SignalRMVCApplication/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/.idea/.idea.SignalRMVCApplication/.idea/contentModel.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../SignalRMVCApplication/.idea/.idea.SignalRMVCApplication/.idea/encodings.xml" beforeDir="false" />
@@ -158,6 +159,59 @@
       <change beforePath="$PROJECT_DIR$/../WebAPIApplication/.idea/.idea.WebAPIApplication/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIApplication/.idea/.idea.WebAPIApplication/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../WebAPIApplication/WebAPIApplication/obj/Debug/netcoreapp3.1/WebAPIApplication.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIApplication/WebAPIApplication/obj/Debug/netcoreapp3.1/WebAPIApplication.csprojAssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../WebAPIApplication/WebAPIApplication/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/../WebAPIApplication/WebAPIApplication/obj/rider.project.restore.info" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/../SignalRMVCApplication/.idea/.idea.SignalRMVCApplication/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SignalRMVCApplication/.idea/.idea.SignalRMVCApplication/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SignalRApplication/.idea/.idea.SignalRApplication/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SignalRApplication/.idea/.idea.SignalRApplication/.idea/contentModel.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SignalRApplication/.idea/.idea.SignalRApplication/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SignalRApplication/.idea/.idea.SignalRApplication/.idea/indexLayout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SignalRApplication/.idea/.idea.SignalRApplication/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SignalRApplication/.idea/.idea.SignalRApplication/.idea/projectSettingsUpdater.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SignalRApplication/.idea/.idea.SignalRApplication/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SignalRApplication/.idea/.idea.SignalRApplication/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SignalRApplication/.idea/.idea.SignalRApplication/riderModule.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SignalRApplication/SignalRApplication.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SignalRApplication/SignalRApplication/ChatHub.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SignalRApplication/SignalRApplication/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SignalRApplication/SignalRApplication/Properties/launchSettings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SignalRApplication/SignalRApplication/SignalRApplication.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SignalRApplication/SignalRApplication/Startup.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SignalRApplication/SignalRApplication/appsettings.Development.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SignalRApplication/SignalRApplication/appsettings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SignalRApplication/SignalRApplication/bin/Debug/netcoreapp3.1/Properties/launchSettings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SignalRApplication/SignalRApplication/bin/Debug/netcoreapp3.1/SignalRApplication.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SignalRApplication/SignalRApplication/bin/Debug/netcoreapp3.1/SignalRApplication.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SignalRApplication/SignalRApplication/bin/Debug/netcoreapp3.1/SignalRApplication.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SignalRApplication/SignalRApplication/bin/Debug/netcoreapp3.1/SignalRApplication.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SignalRApplication/SignalRApplication/bin/Debug/netcoreapp3.1/SignalRApplication.runtimeconfig.dev.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SignalRApplication/SignalRApplication/bin/Debug/netcoreapp3.1/SignalRApplication.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SignalRApplication/SignalRApplication/bin/Debug/netcoreapp3.1/appsettings.Development.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SignalRApplication/SignalRApplication/bin/Debug/netcoreapp3.1/appsettings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SignalRApplication/SignalRApplication/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SignalRApplication/SignalRApplication/obj/Debug/netcoreapp3.1/SignalRApplication.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SignalRApplication/SignalRApplication/obj/Debug/netcoreapp3.1/SignalRApplication.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SignalRApplication/SignalRApplication/obj/Debug/netcoreapp3.1/SignalRApplication.MvcApplicationPartsAssemblyInfo.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SignalRApplication/SignalRApplication/obj/Debug/netcoreapp3.1/SignalRApplication.RazorTargetAssemblyInfo.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SignalRApplication/SignalRApplication/obj/Debug/netcoreapp3.1/SignalRApplication.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SignalRApplication/SignalRApplication/obj/Debug/netcoreapp3.1/SignalRApplication.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SignalRApplication/SignalRApplication/obj/Debug/netcoreapp3.1/SignalRApplication.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SignalRApplication/SignalRApplication/obj/Debug/netcoreapp3.1/SignalRApplication.csprojAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SignalRApplication/SignalRApplication/obj/Debug/netcoreapp3.1/SignalRApplication.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SignalRApplication/SignalRApplication/obj/Debug/netcoreapp3.1/SignalRApplication.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SignalRApplication/SignalRApplication/obj/Debug/netcoreapp3.1/SignalRApplication.genruntimeconfig.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SignalRApplication/SignalRApplication/obj/Debug/netcoreapp3.1/SignalRApplication.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SignalRApplication/SignalRApplication/obj/Debug/netcoreapp3.1/staticwebassets/SignalRApplication.StaticWebAssets.Manifest.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SignalRApplication/SignalRApplication/obj/Debug/netcoreapp3.1/staticwebassets/SignalRApplication.StaticWebAssets.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SignalRApplication/SignalRApplication/obj/SignalRApplication.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SignalRApplication/SignalRApplication/obj/SignalRApplication.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SignalRApplication/SignalRApplication/obj/SignalRApplication.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SignalRApplication/SignalRApplication/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SignalRApplication/SignalRApplication/obj/project.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SignalRApplication/SignalRApplication/obj/project.packagespec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SignalRApplication/SignalRApplication/obj/rider.project.restore.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SignalRApplication/SignalRApplication/wwwroot/index.html" beforeDir="false" />
+>>>>>>> 5725783 (del)
       <change beforePath="$PROJECT_DIR$/.idea/.idea.WebApplication/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.WebApplication/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WebApplication/obj/Debug/netcoreapp3.1/WebApplication.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplication/obj/Debug/netcoreapp3.1/WebApplication.csprojAssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WebApplication/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplication/obj/rider.project.restore.info" afterDir="false" />
