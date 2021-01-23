@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Admin\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Admin\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_WpfApp3.1360650218.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Admin\AppData\Roaming\JetBrains\Rider2020.2\consoles\db" t="IncludeRecursive" />
+    <e p="C:\Users\Admin\AppData\Roaming\JetBrains\Rider2020.2\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\Admin\Desktop\ПММ-11\Серверне WEB програмування (Любінський Б.Д.)\Лабораторні роботи\repo\WpfApp3" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="WpfApp3" t="IncludeRecursive">
+        <e p="App.xaml" t="Include" />
+        <e p="App.xaml.cs" t="Include" />
+        <e p="ApplicationContext.cs" t="Include" />
+        <e p="AssemblyInfo.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="MainWindow.xaml" t="Include" />
+        <e p="MainWindow.xaml.cs" t="Include" />
+        <e p="Models" t="Include">
+          <e p="Book.cs" t="Include" />
+          <e p="Sage.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="App.g.cs" t="Include" />
+              <e p="MainWindow.g.cs" t="Include" />
+              <e p="Windows" t="Include">
+                <e p="AddSageBookWindow.g.cs" t="Include" />
+                <e p="CreateBookWindow.g.cs" t="Include" />
+                <e p="CreateSageWindow.g.cs" t="Include" />
+                <e p="UpdateBookWindow.g.cs" t="Include" />
+                <e p="UpdateSageWindow.g.cs" t="Include" />
+              </e>
+              <e p="WpfApp3.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Services" t="Include">
+          <e p="BookServices.cs" t="Include" />
+          <e p="SageServices.cs" t="Include" />
+        </e>
+        <e p="Windows" t="Include">
+          <e p="AddSageBookWindow.xaml" t="Include" />
+          <e p="AddSageBookWindow.xaml.cs" t="Include" />
+          <e p="CreateBookWindow.xaml" t="Include" />
+          <e p="CreateBookWindow.xaml.cs" t="Include" />
+          <e p="CreateSageWindow.xaml" t="Include" />
+          <e p="CreateSageWindow.xaml.cs" t="Include" />
+          <e p="UpdateBookWindow.xaml" t="Include" />
+          <e p="UpdateBookWindow.xaml.cs" t="Include" />
+          <e p="UpdateSageWindow.xaml" t="Include" />
+          <e p="UpdateSageWindow.xaml.cs" t="Include" />
+        </e>
+        <e p="WpfApp3.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="WpfApp3.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>

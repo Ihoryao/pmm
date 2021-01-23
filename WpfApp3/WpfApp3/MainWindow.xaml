@@ -1,0 +1,104 @@
+﻿<Window x:Class="WpfApp3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp3"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="600" Width="900">
+
+    <StackPanel>
+        <Label FontSize="18" Margin="5" Content="CRUD Application using EntityFrameworkCore and PostgreSQL" />
+        <TabControl>
+            <TabItem Header="Sages">
+                <TabItem.Content>
+                    <StackPanel>
+                        <DataGrid x:Name="SageDataGrid"
+                                  DataGridCell.Selected="SelectSageBooks"
+                                  AutoGenerateColumns="False"
+                                  CanUserAddRows="False"
+                                  IsReadOnly="True"
+                                  ColumnWidth="Auto"
+                                  IsSynchronizedWithCurrentItem="True">
+
+                            <DataGrid.Columns>
+                                <DataGridTextColumn Header="Sage Id" Binding="{Binding SageId}" Width="*" />
+                                <DataGridTextColumn Header="Name" Binding="{Binding Name}" Width="2*" />
+                                <DataGridTextColumn Header="Age" Binding="{Binding Age}" Width="2*" />
+                                <DataGridTextColumn Header="Photo" Binding="{Binding Photo}" Width="2*" />
+                                <DataGridTextColumn Header="City" Binding="{Binding City}" Width="2*" />
+                            </DataGrid.Columns>
+                        </DataGrid>
+
+                        <Button Width="150" Click="AddSageButton"
+                                Content="Create new Sage" Margin="5"
+                                HorizontalAlignment="Center" VerticalAlignment="Center" />
+
+                        <Button Width="150" Click="SelectSageToEditButton"
+                                Content="Edit Sage" Margin="5"
+                                HorizontalAlignment="Center" VerticalAlignment="Center" />
+
+                        <Button Width="150" Click="DeleteSageButton"
+                                Content="Delete Sage" Margin="5"
+                                HorizontalAlignment="Center" VerticalAlignment="Center" />
+
+                        <DataGrid x:Name="SageBookDataGrid"
+                                  DataGridCell.Selected="DataGridSageBook_OnSelected"
+                                  AutoGenerateColumns="False"
+                                  CanUserAddRows="False"
+                                  IsReadOnly="True"
+                                  ColumnWidth="Auto"
+                                  IsSynchronizedWithCurrentItem="True">
+
+                            <DataGrid.Columns>
+                                <DataGridTextColumn Header="Book Id" Binding="{Binding BookId}" Width="0.5*" />
+                                <DataGridTextColumn Header="Name" Binding="{Binding Name}" Width="2*" />
+                                <DataGridTextColumn Header="Description" Binding="{Binding Description}" Width="4*" />
+                            </DataGrid.Columns>
+                        </DataGrid>
+                        <Button Width="150" Click="AddSageBookButton"
+                                Content="Add new Sage Book" Margin="5"
+                                HorizontalAlignment="Center" VerticalAlignment="Center" />
+
+                        <Button Width="150" Click="DeleteSageBookButton"
+                                Content="Delete Book from Sage" Margin="5"
+                                HorizontalAlignment="Center" VerticalAlignment="Center" />
+                    </StackPanel>
+                </TabItem.Content>
+            </TabItem>
+
+            <TabItem Header="Books">
+                <TabItem.Content>
+                    <StackPanel>
+                        <DataGrid x:Name="BookDataGrid"
+                                  DataGridCell.Selected="BookDataGrid_OnSelected"
+                                  AutoGenerateColumns="False"
+                                  CanUserAddRows="False"
+                                  IsReadOnly="True"
+                                  ColumnWidth="Auto"
+                                  IsSynchronizedWithCurrentItem="True">
+
+                            <DataGrid.Columns>
+                                <DataGridTextColumn Header="Book Id" Binding="{Binding BookId}" Width="0.5*" />
+                                <DataGridTextColumn Header="Name" Binding="{Binding Name}" Width="2*" />
+                                <DataGridTextColumn Header="Description" Binding="{Binding Description}" Width="4*" />
+                            </DataGrid.Columns>
+                        </DataGrid>
+                        <Button Width="150" Click="AddBookButton"
+                                Content="Create new Book" Margin="5"
+                                HorizontalAlignment="Center" VerticalAlignment="Center" />
+
+                        <Button Width="150" Click="SelectBookToEditButton"
+                                Content="Edit Book" Margin="5"
+                                HorizontalAlignment="Center" VerticalAlignment="Center" />
+
+                        <Button Width="150" Click="DeleteBookButton"
+                                Content="Delete Book" Margin="5"
+                                HorizontalAlignment="Center" VerticalAlignment="Center" />
+
+                    </StackPanel>
+                </TabItem.Content>
+            </TabItem>
+        </TabControl>
+    </StackPanel>
+</Window>
